@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criminal_DB", "Criminal_DB\Criminal_DB.csproj", "{6A4C9DB1-F302-454A-90BD-62699D371DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A4C9DB1-F302-454A-90BD-62699D371DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4C9DB1-F302-454A-90BD-62699D371DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4C9DB1-F302-454A-90BD-62699D371DFE}.Debug|x64.ActiveCfg = Debug|x64
+		{6A4C9DB1-F302-454A-90BD-62699D371DFE}.Debug|x64.Build.0 = Debug|x64
+		{6A4C9DB1-F302-454A-90BD-62699D371DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4C9DB1-F302-454A-90BD-62699D371DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4C9DB1-F302-454A-90BD-62699D371DFE}.Release|x64.ActiveCfg = Release|x64
+		{6A4C9DB1-F302-454A-90BD-62699D371DFE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E330A1F-A4B4-4EFD-A192-648091647B35}
+	EndGlobalSection
+EndGlobal
