@@ -1,0 +1,141 @@
+C:\Users\cv1039014\source\repos\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.exe.config
+C:\Users\cv1039014\source\repos\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.exe
+C:\Users\cv1039014\source\repos\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.pdb
+C:\Users\cv1039014\source\repos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csprojResolveAssemblyReference.cache
+C:\Users\cv1039014\source\repos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Login.resources
+C:\Users\cv1039014\source\repos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.MainForm.resources
+C:\Users\cv1039014\source\repos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Properties.Resources.resources
+C:\Users\cv1039014\source\repos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csproj.GenerateResource.cache
+C:\Users\cv1039014\source\repos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csproj.CoreCompileInputs.cache
+C:\Users\cv1039014\source\repos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.exe
+C:\Users\cv1039014\source\repos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.pdb
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.exe.config
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.exe
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.pdb
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csprojAssemblyReference.cache
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Login.resources
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.MainForm.resources
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Properties.Resources.resources
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csproj.GenerateResource.cache
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csproj.CoreCompileInputs.cache
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.exe
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.pdb
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form2.resources
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form3.resources
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form4.resources
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form5.resources
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form6.resources
+C:\Users\argel\Source\Repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form7.resources
+C:\Users\argel\source\repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\bin\Debug\Oracle.DataAccess.dll
+C:\Users\argel\source\repos\ProyectoFinal_Topicos_Selectos\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csproj.CopyComplete
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.exe.config
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.exe
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.pdb
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csprojResolveAssemblyReference.cache
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Login.resources
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form2.resources
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form7.resources
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.MainForm.resources
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Properties.Resources.resources
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.UserControl1.resources
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csproj.GenerateResource.cache
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csproj.CoreCompileInputs.cache
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csproj.CopyComplete
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.exe
+C:\Users\cv1039014\Downloads\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.pdb
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csprojAssemblyReference.cache
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Login.resources
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form2.resources
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form3.resources
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form4.resources
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form5.resources
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form6.resources
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form7.resources
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.MainForm.resources
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Properties.Resources.resources
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.UserControl1.resources
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csproj.GenerateResource.cache
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csproj.CoreCompileInputs.cache
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.exe
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.pdb
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.exe.config
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.exe
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.pdb
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\EntityFramework.dll
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Oracle.DataAccess.dll
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\EntityFramework.xml
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\argel\Downloads\ProyectoFinal_Topicos_Selectos-master (3)\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csproj.CopyComplete
+G:\Criminal_DB\bin\Debug\Criminal_DB.exe.config
+G:\Criminal_DB\bin\Debug\Criminal_DB.exe
+G:\Criminal_DB\bin\Debug\EntityFramework.dll
+G:\Criminal_DB\bin\Debug\EntityFramework.SqlServer.dll
+G:\Criminal_DB\bin\Debug\Oracle.DataAccess.dll
+G:\Criminal_DB\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\Criminal_DB\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+G:\Criminal_DB\bin\Debug\EntityFramework.xml
+G:\Criminal_DB\bin\Debug\EntityFramework.SqlServer.xml
+G:\Criminal_DB\obj\Debug\Criminal_DB.csprojResolveAssemblyReference.cache
+G:\Criminal_DB\obj\Debug\Criminal_DB.Login.resources
+G:\Criminal_DB\obj\Debug\Criminal_DB.Form2.resources
+G:\Criminal_DB\obj\Debug\Criminal_DB.Form3.resources
+G:\Criminal_DB\obj\Debug\Criminal_DB.Form4.resources
+G:\Criminal_DB\obj\Debug\Criminal_DB.Form5.resources
+G:\Criminal_DB\obj\Debug\Criminal_DB.Form6.resources
+G:\Criminal_DB\obj\Debug\Criminal_DB.Form7.resources
+G:\Criminal_DB\obj\Debug\Criminal_DB.MainForm.resources
+G:\Criminal_DB\obj\Debug\Criminal_DB.Properties.Resources.resources
+G:\Criminal_DB\obj\Debug\Criminal_DB.UserControl1.resources
+G:\Criminal_DB\obj\Debug\Criminal_DB.csproj.GenerateResource.Cache
+G:\Criminal_DB\obj\Debug\Criminal_DB.exe
+G:\Criminal_DB\obj\Debug\Criminal_DB.pdb
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.exe.config
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.exe
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\EntityFramework.dll
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\EntityFramework.SqlServer.dll
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Oracle.DataAccess.dll
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\EntityFramework.xml
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\EntityFramework.SqlServer.xml
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csprojResolveAssemblyReference.cache
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Login.resources
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form2.resources
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form3.resources
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form4.resources
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form5.resources
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form6.resources
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form7.resources
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.MainForm.resources
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Properties.Resources.resources
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.UserControl1.resources
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csproj.GenerateResource.Cache
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.exe
+G:\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.pdb
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.exe.config
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.exe
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Criminal_DB.pdb
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\EntityFramework.dll
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\EntityFramework.xml
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Login.resources
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form2.resources
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form3.resources
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form4.resources
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form5.resources
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form6.resources
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Form7.resources
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.MainForm.resources
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.Properties.Resources.resources
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.UserControl1.resources
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.exe
+C:\Users\Carlos\Desktop\ProyectoFinal_Topicos_Selectos-master\Criminal_DB\Criminal_DB\obj\Debug\Criminal_DB.pdb
